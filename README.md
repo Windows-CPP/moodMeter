@@ -8,5 +8,21 @@ It just logs your mood- It's in the name???
 
 ## How To Use
 
-Open up the .lnk file on your desktop to get started. To log your mood, input the command `logmood` to log your mood.
-Simply press your current mood on the chart, then close the GUI. From there, you can open up the shortcut and use the command `readlogs` to see mood history.
+### Logging Moods
+
+1) Open `moodMeter.exe` on your desktop to get started.
+2) Enter the command `logMood`
+3) Press one of the 'Mood Keys' in the chart.
+4) Moods are logged!
+
+### Reading & Deleting Logs
+
+#### Reading
+
+1) Enter the command `readLogs`.
+2) Logs will be output.
+
+#### Deleting
+
+1) Enter the command `clearLogs`.
+2) Logs will be cleared.
