@@ -1,3 +1,5 @@
+# note: this file gets named moodMonitor.exe when compiled
+
 GRN = "\u001b[42m"
 END = "\u001b[0m"
 logLocation = "C:/Program Files/moodMeter/moods.log"

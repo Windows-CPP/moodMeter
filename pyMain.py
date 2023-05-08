@@ -1,3 +1,5 @@
+### note: this file gets renamed to moodLogger.exe when compiled
+
 # mood metre using tKinter
 # 0.3
 import tkinter as tk
