@@ -1,6 +1,9 @@
+# Installer files
 win-moodMeter-v0_3.bat
 win-moodMeter-v0_3.exe
 win-moodMeter-v0_3-Installer.bat
 win-moodMeter-v0_3-Installer.exe
+
+# pyinstaller & compiler files
 dump.log
 *.pkg
