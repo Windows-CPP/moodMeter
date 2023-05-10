@@ -5,5 +5,9 @@ win-moodMeter-v0_3-Installer.bat
 win-moodMeter-v0_3-Installer.exe
 
 # pyinstaller & compiler files
+/dist
+icon.ico
+moodMonitor.spec
+moodLogger.spec
 dump.log
 *.pkg
