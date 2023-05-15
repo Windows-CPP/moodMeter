@@ -1,13 +1,14 @@
 # Installer files
-win-moodMeter-v0_3.bat
-win-moodMeter-v0_3.exe
-win-moodMeter-v0_3-Installer.bat
-win-moodMeter-v0_3-Installer.exe
+*.bat
+*.exe
 
-# pyinstaller & compiler files
+# compilation files & dirs
 /dist
 icon.ico
-moodMonitor.spec
-moodLogger.spec
 dump.log
+*.ginf
+*.spec
 *.pkg
+
+# Other
+moods.log # so I can still use this for personal use w/o having to delete my own logs
