@@ -2,6 +2,10 @@
 *.bat
 *.exe
 
+# But don't ignore the programs exes
+!moodLogger.exe
+!moodMonitor.exe
+
 # compilation files & dirs
 /dist
 icon.ico
