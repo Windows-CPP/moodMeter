@@ -1,4 +1,5 @@
-### note: this file gets renamed to moodLogger.exe when compiled
+# note: this file gets renamed to moodLogger.exe when compiled
+# compile command: pyinstaller moodLogger.py --onefile --noconsole
 
 """
 This program is free software. It comes without any warranty, to
@@ -9,7 +10,7 @@ http://www.wtfpl.net/ for more details. */
 """
 
 # mood metre using tKinter
-# 0.3
+# v0.3
 import tkinter as tk
 from tkinter import ttk
 import time
@@ -17,14 +18,15 @@ from functools import partial
 from os import system
 
 window = tk.Tk()
-file = open("C:/Users/StG_44/Desktop/Projects/MoodMeter/moods.log", "a")
+file = open("C:/Program Files/moodMeter/moods.log", "a")
+
 
 def clear():
     system("cls")
 
 def on_click(text):
     newString = "[{0}, {1}]\n".format(time.ctime(), text)
-    print("returning::Debug::newString: " + str(newString))
+    #print("returning::Debug::newString: " + str(newString)) # uncomment this line for debugging purpouses
     file.write(newString)
 
 ## I'll need to use 2D arrays for this since the grid math won't work, so treat them more like coords ig

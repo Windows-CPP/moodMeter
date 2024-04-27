@@ -1,6 +1,6 @@
 # Additional Statements Regarding Copyright and Copyleft Concerns
 
-0) This project (And all of the code, binaries, git files, etcetera) are licensed under the **Whatever the Fuck You Want Public License** (WTFPL). For more information, read the COPYING file.
+0) This project (And all of the code, binaries, git files, etcetera) are licensed under the **Whatever the Fuck You Want Public License, Version 2** (WTFPLv2). For more information, read the COPYING file.
 
 
 1) These files have no limitations. You are allowed to reshare, reblog, modify, reupload, and do whatever the fuck you want with this code as you please with no warranties or liabilities, as the WTFPL has no clause regarding liability or warranty, as can be read in the clause below from the WTFPL website:

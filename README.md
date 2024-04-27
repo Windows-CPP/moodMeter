@@ -8,6 +8,17 @@ It just logs your mood- It's in the name???
 
 ## How To Use
 
+### What the Files Do
+`moodLogger.*`: Main File, Contains the Actual Mood Chart
+
+`moodMonitor.*`: Secondary File, Used to Modify and Review Data
+
+`moods.log`: File where Moods are Stored
+
+`COPYING`: License
+
+`COPYRIGHT.MD`: License Additional Terms
+
 ### Logging Moods
 
 1) Open `moodLogger.exe` on your desktop to get started.
@@ -19,10 +30,12 @@ It just logs your mood- It's in the name???
 
 #### Reading
 
+0) Open `moodMonitor.exe`
 1) Enter the command `readLogs`.
 2) Logs will be output.
 
 #### Deleting
 
+0) Open `moodMonitor.exe`
 1) Enter the command `clearLogs`.
 2) Logs will be cleared.

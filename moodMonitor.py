@@ -1,4 +1,5 @@
 # note: this file gets named moodMonitor.exe when compiled
+# compile command: pyinstaller moodMonitor.py --onefile --c 
 
 """
 This program is free software. It comes without any warranty, to
@@ -8,7 +9,7 @@ To Public License, Version 2, as published by Sam Hocevar. See
 http://www.wtfpl.net/ for more details. */
 """
 
-
+# v0.4
 GRN = "\u001b[42m"
 END = "\u001b[0m"
 logLocation = "C:/Program Files/moodMeter/moods.log"
