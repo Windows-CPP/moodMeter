@@ -1,5 +1,5 @@
 # note: this file gets named moodMonitor.exe when compiled
-# compile command: pyinstaller moodMonitor.py --onefile --c 
+# compile command: pyinstaller moodMonitor.py --onefile --c --uac-admin
 
 """
 This program is free software. It comes without any warranty, to

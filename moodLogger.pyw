@@ -1,5 +1,5 @@
 # note: this file gets renamed to moodLogger.exe when compiled
-# compile command: pyinstaller moodLogger.py --onefile --noconsole
+# compile command: pyinstaller moodLogger.py --onefile --noconsole --uac-admin
 
 """
 This program is free software. It comes without any warranty, to
