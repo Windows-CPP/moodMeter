@@ -10,7 +10,7 @@ http://www.wtfpl.net/ for more details. */
 """
 
 # mood metre using tKinter
-# v0.3
+# fv0.3
 import tkinter as tk
 from tkinter import ttk
 import time
